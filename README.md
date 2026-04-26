@@ -118,7 +118,3 @@ It helps identify inefficient routes, reduce delays, and improve overall shippin
 
 ---
 
-## 👨‍💻 Author
-
-Sonu Shivam
-B.Tech Data Science Student
